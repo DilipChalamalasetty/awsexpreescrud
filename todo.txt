@@ -1,0 +1,5 @@
+templates,
+cloud formation dynamodb
+109 record in dynamodb with less latency
+aws sam
+https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-set-up-credentials.html
